@@ -1,1 +1,23 @@
+Dataset source: 
+IEEE DataPort - Fine-Grained Balanced Cyberbullying Dataset (2021) 
+Type: 
+Textual dataset (English-language tweets) 
+Instances: 48,000 tweets 
+Features: 
+•	Tweet text (raw textual content) 
+•	Label (type of cyberbullying) 
+Target Variable: 
+Cyberbullying category (multi-class classification with six classes) 
+Class Labels: 
+•	Age-based cyberbullying 
+•	Ethnicity-based cyberbullying 
+•	Gender-based cyberbullying 
+•	Religion-based cyberbullying 
+•	Other/general harassment 
+•	Not cyberbullying 
+
+Class Distribution: 
+Perfectly balanced dataset with 8,000 instances per class 
+ Missing Values: 
+No missing values reported 
 
